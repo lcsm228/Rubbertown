@@ -11,3 +11,8 @@ The goal of this project is to draw attention to the environmental injustices po
 ![aerial rubbertown](https://user-images.githubusercontent.com/78566021/167225300-f1df418d-ffb4-43a7-96c2-a5f6b325869f.png)
 
 *Aerial view of Rubbertown*
+
+
+![projected rubbertown](https://user-images.githubusercontent.com/78566021/167225534-0279d641-937e-4808-bc79-7d13868b5e95.jpg)
+
+*3D Projection of Rubbertown*
