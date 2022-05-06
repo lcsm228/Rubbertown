@@ -7,3 +7,7 @@ Rubbertown is a hub of industrial manufacturing plants within the city of Louisv
 
 ## Goal
 The goal of this project is to draw attention to the environmental injustices posed on a vulnerable community by an industrial district that contributes to and exacerbates the problems of air pollution and climate crisis. I want to provide a visualization that properly shows the close proximity of residents to a source that has the potential to cut the life expectancy of those in the community by as much as 13 years compared to the other parts of Louisville. 
+
+![aerial rubbertown](https://user-images.githubusercontent.com/78566021/167225300-f1df418d-ffb4-43a7-96c2-a5f6b325869f.png)
+
+*Aerial view of Rubbertown*
