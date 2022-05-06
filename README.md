@@ -24,3 +24,6 @@ Notice how Rubbertown is located in the Ohio River Valley. Residents not only ha
 
 ![buffer over louisville](https://user-images.githubusercontent.com/78566021/167226357-49ab142d-9dab-40a1-828d-e4e8e226d0a2.jpg)
 ![Life Expectancy Legend](https://user-images.githubusercontent.com/78566021/167226369-f4339cea-e579-40e0-8a95-6eeac6c48118.jpg)
+
+*A buffer over Louisville at 5, 10, and 15 miles from Rubbertown shows how the life expectancy of residents that live closer to the insudtrial district is lower than those who live further away.*
+
