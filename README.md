@@ -18,3 +18,6 @@ The goal of this project is to draw attention to the environmental injustices po
 ![projected rubbertown](https://user-images.githubusercontent.com/78566021/167225534-0279d641-937e-4808-bc79-7d13868b5e95.jpg)
 
 *3D Projection of Rubbertown*
+
+## Things to Note
+Notice how Rubbertown is located in the Ohio River Valley. Residents not only have to worry about air pollution from the industrial plants, but flooding in the area as well. Flooding of the Ohio River Valley is a threat to residents' health because chemical pollutants from the industrial plants can enter into the water and soil as well. All of these pollutants have adverse effects on human health which cuts the lifespan of anyone near.
