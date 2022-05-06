@@ -40,3 +40,6 @@ Notice how Rubbertown is located in the Ohio River Valley. Residents not only ha
 
 ![rubbertown](https://user-images.githubusercontent.com/78566021/167226936-bf5d98a6-b104-40e2-80b3-d68b715d326a.png)
 
+
+
+University of Kentucky, GEO409, Lauryn Smith
